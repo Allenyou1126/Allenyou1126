@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**Allenyou1126/Allenyou1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+<a href="https://github.com/Allenyou1126">
+  <img src="https://komarev.com/ghpvc/?username=Allenyou1126&style=flat-square" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+Hi, this is Allen You a.k.a. 秋实-Allenyou, a college student, amateur bug producer, Furry, ex-OIer, ACMer, ENTJ-A.
+
+-----
+
+#### Skills:
+
+- C++：Only used in XCPC competitions.
+- Java/Kotlin：Mainly for Minecraft plugins and mods.
+- Python：Often used to writing some scripts.
+- JavaScript/TypeScript：Frontend development.
+  - React + Next.js：Most often used.
+  - Vue：Tried.
+- Golang：Learning, trying to build dockerized backend apps with it.
+- Tailwind CSS：To avoid the problem that I'm not good at writing CSS.
+- Linux & Docker
+
+#### Devices:
+
+- 💻：Lenovo REGION R9000P 2023
+- 📱：Redmi K60
+- 📱：Xiaomi Pad 6 Pro
+- ⌚：Xiaomi Smart Band 8 NFC
+- 🎧：Redmi Buds 5 Pro
+- ⌨：GNASS GS104C
+
+-----
+
+
+***
+
+<a href="https://github.com/Allenyou1126">
+  <img src="https://github-readme-stats.vercel.app/api?username=Allenyou1126&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/Allenyou1126">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenyou1126&layout=compact" />
+</a>
+
+Feel free to contact me via Email!
+
+You can get more information about me at [My Homepage](https://allenyou.top) or [My Blog](https://www.allenyou.wang)!
+
+-----

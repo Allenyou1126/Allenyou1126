@@ -9,6 +9,8 @@
 
 Hi, this is Allen You a.k.a. 秋实-Allenyou, a college student, amateur bug producer, Furry, ex-OIer, ACMer, ENTJ-A.
 
+Currently working on maintaining my project [Aki-SSG](https://github.com/Allenyou1126/aki-ssg) and as a member of the open project [开往 Travellings](https://travellings.cn).
+
 -----
 
 #### Skills:

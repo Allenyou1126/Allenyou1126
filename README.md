@@ -30,7 +30,7 @@ Currently working on maintaining my project [Aki-SSG](https://github.com/Allenyo
 - 💻：Lenovo REGION R9000P 2023
 - 📱：Redmi K60
 - 📱：Xiaomi Pad 6 Pro
-- ⌚：Xiaomi Smart Band 8 NFC
+- ⌚：Xiaomi Smart Band 9 NFC
 - 🎧：Redmi Buds 5 Pro
 - ⌨：GNASS GS104C
 

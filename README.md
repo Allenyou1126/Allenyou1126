@@ -33,6 +33,7 @@ Currently working on maintaining my project [Aki-SSG](https://github.com/Allenyo
 - ⌚：Xiaomi Smart Band 9 NFC
 - 🎧：Redmi Buds 5 Pro
 - ⌨：GNASS GS104C
+- 🔑：Yubikey 5C NFC
 
 -----
 

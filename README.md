@@ -1,9 +1,10 @@
 
 ### Hi there 👋
 
-<a href="https://github.com/Allenyou1126">
-  <img src="https://komarev.com/ghpvc/?username=Allenyou1126&style=flat-square" />
-</a>
+<div style="display: flex; gap: 1rem;">
+  <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=Allenyou1126&style=flat-square" />
+  <img style="display: inline-block;" src="https://wakapi.allenyou.wang/api/badge/Allenyou/interval:year?label=Coding%20This%20Year" />
+</div>
 
 ----
 

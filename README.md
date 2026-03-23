@@ -12,19 +12,24 @@ Hi, this is Allen You a.k.a. 秋实-Allenyou, a college student, amateur bug pro
 
 Currently working on maintaining my project [Aki-SSG](https://github.com/Allenyou1126/aki-ssg) and as a member of the open project [开往 Travellings](https://travellings.cn).
 
+Owning a AS in DN42: [AS4242421056](https://www.allenyou.wang/dn42). Peering requests will be accepted via email.
+
 -----
 
 #### Skills:
 
 - C++：Only used in XCPC competitions.
+- C#: Maintaining QQ Bot with Lagrange.Core.
 - Java/Kotlin：Mainly for Minecraft plugins and mods.
 - Python：Often used to writing some scripts.
 - JavaScript/TypeScript：Frontend development.
   - React + Next.js：Most often used.
   - Vue：Tried.
+- Astro: A static site generator based on islands.
 - Golang：Learning, trying to build dockerized backend apps with it.
-- Tailwind CSS：To avoid the problem that I'm not good at writing CSS.
+- Tailwind CSS：A modern utility-first CSS framework.
 - Linux & Docker
+- Nix: It's right to get all in NixOS!
 
 #### Devices:
 

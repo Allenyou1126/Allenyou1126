@@ -34,10 +34,11 @@ Owning a AS in DN42: [AS4242421056](https://www.allenyou.wang/dn42). Peering req
 #### Devices:
 
 - 💻：Lenovo REGION R9000P 2023
+- 💻：Mechrevo Wujie 15X
 - 📱：Redmi K80 Ultra
 - 📱：Xiaomi Pad 6 Pro
 - ⌚：Xiaomi Smart Band 9 NFC
-- 🎧：Redmi Buds 5 Pro
+- 🎧：Redmi Buds 8 Pro
 - ⌨：GNASS GS104C
 - 🔑：Yubikey 5C NFC
 
